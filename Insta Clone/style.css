@@ -1,0 +1,295 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+.insta{
+    display: flex;
+    
+}
+.leftbar{
+    height:800px;
+    width:250px;
+    border:0.2px solid black; 
+    border-top: white;
+   
+  
+}
+.sidemenu{
+    box-sizing: border-box;
+    position:fixed;
+    
+}
+
+.logo{
+    height:70px;   
+}
+.logo1{
+    height:60px;
+    width:200px;
+    background-size: cover;
+    background-image: url(insta\ logo.jpg);
+    margin-top: 30px;
+    margin-left: 5px;
+    
+}
+.icons{
+    height:60px;
+    
+    margin-bottom: 2px;
+
+
+}
+.icons:hover{
+    
+    color:#ced6ba;
+    
+}
+.icon{
+    padding: 10px;
+    display:flex;
+}
+.name{
+
+    margin-left: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.profile{
+    height: 30px;
+    width:30px;
+    background-image: url(profile.jpeg);
+    background-size: cover;
+    border-radius: 25px;
+    
+    
+}
+.threads{
+    margin-top: 30px;
+}
+.threads:hover{
+    color:#ced6ba
+}
+.more:hover{
+    color:#ced6ba;
+}
+.middlebar{
+    height:800px;
+    width:850px;
+    
+   position:relative;
+   margin-left: 250px;
+    
+}
+.stories{
+    height:100px;
+    
+    display:flex;
+    justify-content: space space-evenly;
+}
+
+.instory{
+    height:55px;
+    width: 55px;
+    border-radius: 55px;
+    margin-left: 2.5px;
+    
+    background-size: cover;
+}
+.navstory{
+       height:80px;
+       width:80px;
+       
+     
+      
+}
+.nav{
+    margin-left: 80px;
+}
+      
+
+.story{
+    border-radius: 50px;
+    margin-bottom: 20px;
+    height:60px;
+    width:60px;
+    background-color:	#ff0065;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-size: cover;
+
+}
+
+.button{
+    margin-left: 80px;
+    background-size: cover;
+}
+
+.post{
+   
+    height:2515px;
+    width: 800px;
+    margin-left: 25px;
+    
+}
+.pic{
+   
+    height:2515px;
+    width:600px ;
+    margin-left: 95px;
+    
+    
+}
+.insidepic{
+    height:628px;
+   
+    width:560px;
+    margin-left: 20px;
+    margin-right: 20px;
+  
+}
+.dp{
+    height:50px;
+   
+    display:flex;
+}
+.dp1{
+    height:45px;
+    width:45px;
+    
+    border-radius:45px;
+    background-size: cover;
+
+    
+}
+.dots{
+  margin-top: 3px;
+  margin-left: 310px;
+}
+.firstname{
+    padding: 2px;
+    margin-left: 4px;
+    font-weight: bold;
+    height: 21px;
+}
+.secondname{
+    margin-left: 12px;
+    height:5px;
+    
+    
+}
+.feed{
+  background-size: cover;
+  
+    height:510px;
+}
+.likes{
+    height:40px;
+   
+    display:flex;
+}
+.li{
+    height:40px;
+    width:40px;
+    
+    
+   
+}
+.lii{
+    height:40px;
+    width:40px;
+    
+    margin-left: 10px;
+
+}
+.liii{
+     margin-left:400px;
+}
+.likediv{
+    height:45px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+button{
+    text-decoration: none;
+    border:none;
+    background-color: transparent;
+
+}
+ .rightbar{
+    height: 800px;
+    width:300px;
+    
+
+   
+    
+ }
+ .profileone{
+    height: 60px;
+   
+    margin-top: 20px;
+ }
+
+.suggested{
+    display: flex;
+    height:40px;
+   
+}
+.button{
+    float:right;
+    margin-left: 140px;
+   
+    border:none;
+    cursor:pointer;
+    text-decoration: none;
+}
+.htth{
+    height: 60px;
+    
+    
+}
+.follow{
+    margin-left: 52px;
+   float: right;
+   padding: 10px;
+    align-items: center;
+}
+.following{
+    margin-left: 71px;
+    float: right;
+    padding: 10px;
+     align-items: center;
+}
+.footer{
+    height:200px;
+    
+    margin-top: 30px;
+    
+}
+a{
+   
+    justify-content: space-evenly;
+    margin-left: 5px;
+    list-style: none;
+    font-size: small;
+}
+.about{
+    text-decoration: none;
+}
+
+.copyrights{
+    margin-top: 20px;
+ color:#9ea7b5;
+ font-weight: bold;
+}
+span{
+    margin-left: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+     color:#9ea7b5;
+}
+
+
+
+
